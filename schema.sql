@@ -1,0 +1,1 @@
+CREATE TABLE Students(id INT(10) PRIMARY KEY,name VARCHAR(20) NOT NULL,age INT(10),marks INT(10),city VARCHAR(20));
