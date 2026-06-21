@@ -20,4 +20,7 @@ Contains student names, subjects, and marks.
 2. Import dataset.csv
 3. Run queries.sql
 
+##Output Screenshot
+![Query Output](Screenshot 2026-06-21 144707.png)
+
 
